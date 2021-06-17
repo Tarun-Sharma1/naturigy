@@ -427,4 +427,6 @@ footer li {
   font-family: 'Benne', serif;
   color:#fff;
   font-size: 33px;
+  position:relative;
+  top:1px;
 }
